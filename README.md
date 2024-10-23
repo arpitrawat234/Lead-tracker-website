@@ -1,26 +1,19 @@
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-# LeadTracker Web Extension
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
-## Overview
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-**LeadTracker** is a web extension designed to help users efficiently manage and keep track of their leads. This extension allows users to save and organize URLs of potential leads directly from their browser, making it easier to follow up and convert leads into customers.
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-## Features
-
-- **Save URLs**: Quickly save the URL of the current tab to keep track of potential leads.
-- **Manage Saved Leads**: View and manage your saved URLs in a user-friendly interface.
-- **Search Functionality**: Easily search through saved leads to find specific entries.
-- **Cross-Browser Compatibility**: Works seamlessly on both Chrome and Firefox browsers.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Browser APIs (for URL capturing and storage)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/leadtracker.git
+Happy Coding!
